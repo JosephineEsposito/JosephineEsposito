@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![JosephineEsposito's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephineEsposito)](https://github.com/JosephineEsposito/github-readme-stats)
+
+
 -->
