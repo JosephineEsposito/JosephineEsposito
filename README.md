@@ -4,9 +4,9 @@ My email: josephine.esposito.2000@gmail.com
 
 ---
 
-- 🔭 I’m currently working on a secret projecto for my university
-- 🌱 I’m currently learning Django, ReactJs, CSS and Python
-- 💬 Ask me about C++ and Java
+- 🔭 I’m currently a stagist!
+- 🌱 I’m currently learning SQL with SSMS, React Native and Expo!!
+- 💬 Ask me about Django, React Native, ReactJS, Python, MongoDB
 - 📫 How to reach me: DM me directly on Twitter or send me an email!
 - 😄 Pronouns: my pronouns are her/she
 - ⚡ Fun fact: I speak 3 languages so feel free to write to me in Italian, English or Spanish
