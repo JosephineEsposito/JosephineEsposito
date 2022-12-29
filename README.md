@@ -14,6 +14,6 @@ My email: josephine.esposito.2000@gmail.com
 ---
 My stats here!
 
-[![josephineesposito's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephineesposito&show_icons=true&theme=solarized-light)](https://github.com/josephineesposito/github-readme-stats)
+[![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephineesposito&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephineesposito&layout=compact&show_icons=true&theme=solarized-light)](https://github.com/josephineesposito/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephineesposito&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
