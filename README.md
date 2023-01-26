@@ -5,7 +5,7 @@ My email: josephine.esposito.2000@gmail.com
 ---
 
 - 🔭 I’m currently a stagist!
-- 🌱 I’m currently learning SQL with SSMS, React Native and Expo!!
+- 🌱 I’m currently learning SQL with SSMS!!
 - 💬 Ask me about:
    -  Django
    -  React Native with Expo
