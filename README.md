@@ -21,4 +21,4 @@ My stats here!
 
 [![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephineesposito&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephineesposito&layout=compact&&count_private=trueshow_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephineesposito&layout=compact&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
