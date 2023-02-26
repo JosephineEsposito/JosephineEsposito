@@ -4,16 +4,17 @@ My email: josephine.esposito.2000@gmail.com
 
 ---
 
-- 🔭 I’m currently a stagist!
-- 🌱 I’m currently learning SQL with SSMS!!
+- 🔭 I’m currently studying at Tec!
+- 🌱 I’m currently learning advanced app development and drawing!!
 - 💬 Ask me about:
-   -  Django
+   -  Django REST
    -  React Native with Expo
    -  React.js
    -  Python
    -  MongoDB
+   -  UML and software architecture
 - 📫 How to reach me: DM me directly on Twitter or send me an email!
-- 😄 Pronouns: my pronouns are her/she
+- 🍫 Pronouns: my pronouns are her/she
 - ⚡ Fun fact: I speak 3 languages so feel free to write to me in Italian, English or Spanish
 
 ---
