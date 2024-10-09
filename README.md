@@ -8,18 +8,12 @@ My email: josephine.esposito.2000@gmail.com
 - 🌱 I’m currently learning videogame development!!
 - 💬 Ask me about:
    -  Django REST
-   -  React Native with Expo
-   -  React.js
+   -  React Native
    -  Python
    -  MongoDB
    -  UML and software architecture
-- 📫 How to reach me: send me an email!
+   -  C#
+   -  Unity Engine
+- 📫 How to reach me: send me an email or contact me via socialmedia!
 - 🍫 Pronouns: my pronouns are her/she
 - ⚡ Fun fact: I speak 3 languages so feel free to write to me in Italian, English, or Spanish
-
----
-My stats are here!
-
-[![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephineesposito&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephineesposito&layout=compact&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/josephineesposito/github-readme-stats)
